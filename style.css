@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(120deg, rgb(15, 15, 17), rgb(55, 59, 66));
+}
+
+@media screen and (max-width: 600px) {
+    #current-word {
+        font-size: xx-large;
+    }
+}
